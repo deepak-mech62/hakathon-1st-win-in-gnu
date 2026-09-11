@@ -10,3 +10,4 @@ An IoT-based smart gas detection system that detects LPG gas leaks, triggers a w
 ## Tech Stack
 - **Hardware:** Gas Sensor, Arduino / ESP8266, Servo Motor, Buzzer, GSM/Wi-Fi Module.
 - **Software:** Arduino IDE, C/C++, IoT Cloud Platform.
+ 
